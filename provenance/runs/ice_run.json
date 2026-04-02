@@ -1,0 +1,9 @@
+{
+  "timestamp_utc": "2026-03-29T01:00:14.701547+00:00",
+  "script": "reproduce_ice_cluster.py",
+  "config": "configs/ice_cluster_public.yaml",
+  "outputs": [
+    "results/figures/figure_ice_cluster.png"
+  ],
+  "notes": "Placeholder created; no public ICE artifact present."
+}

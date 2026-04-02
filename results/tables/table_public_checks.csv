@@ -1,0 +1,9 @@
+path,exists
+results/figures/figure_q1.png,True
+results/figures/figure_q2.png,True
+results/figures/figure_q3.png,True
+results/figures/figure_q4.png,True
+results/figures/figure_q5.png,True
+results/figures/figure_redshift.png,True
+results/figures/figure_sbia_ignite.png,True
+results/figures/figure_ice_cluster.png,True

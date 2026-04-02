@@ -1,0 +1,9 @@
+name: iqg-public
+channels:
+  - conda-forge
+dependencies:
+  - python=3.9
+  - numpy=1.23
+  - scipy=1.9
+  - matplotlib=3.5
+  - pyyaml

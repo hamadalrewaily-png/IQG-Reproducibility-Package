@@ -1,0 +1,9 @@
+{
+  "timestamp_utc": "2026-03-29T01:00:05.341443+00:00",
+  "script": "reproduce_sbia_ignite.py",
+  "config": "configs/sbia_ignite_public.yaml",
+  "outputs": [
+    "results/figures/figure_sbia_ignite.png"
+  ],
+  "notes": "Placeholder created; no public SBIA artifact present."
+}

@@ -1,0 +1,7 @@
+Figure Q3. Effect of nonlinear self-structuring parameter ($\mu$) on informational density evolution.
+Representative public Tier-0/Tier-1 regeneration showing $\rho(x,t)$ under a qualitative
+$\mu$ sweep. Stronger nonlinear self-structuring sharpens localization and promotes more
+stable, compact ridge formation, whereas weaker nonlinear resistance produces broader and
+more diffuse structuring patterns. This figure is intended as a public-facing qualitative
+sweep figure for Appendix Q and should be interpreted specifically as a $\mu$-variation
+study, with higher-order saturation held fixed.

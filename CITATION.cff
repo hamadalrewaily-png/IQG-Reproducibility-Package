@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+title: IQG-Reproducibility-Package
+message: "If you use this repository, please cite the package and the associated IQG manuscript."
+type: software
+authors:
+  - family-names: Alrewaily
+    given-names: Hamad
+version: 0.1.0
+date-released: 2026-03-29
+repository-code: "REPLACE-WITH-FINAL-GITHUB-URL"
+abstract: >-
+  Public Tier-0 / Tier-1 starter reproducibility package aligned with the
+  staged reproducibility structure described in the IQG manuscript.

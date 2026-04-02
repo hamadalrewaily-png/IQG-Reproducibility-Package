@@ -1,0 +1,13 @@
+artifact_class: ice_cluster_preview
+status: public-starter
+config_id: ice_public_v0_1
+seed_policy: seed-agnostic
+masked_bands:
+  feature_window:
+  - masked
+  cluster_count_hint:
+  - 5
+  normalization:
+  - zscore_or_whitened_public
+outputs:
+- results/figures/figure_ice_cluster.png

@@ -1,0 +1,13 @@
+{
+  "timestamp_utc": "2026-03-29T00:59:27.233335+00:00",
+  "script": "make_q_figures.py",
+  "config": null,
+  "outputs": [
+    "results/figures/figure_q1.png",
+    "results/figures/figure_q2.png",
+    "results/figures/figure_q3.png",
+    "results/figures/figure_q4.png",
+    "results/figures/figure_q5.png"
+  ],
+  "notes": "Copied released Appendix Q figures."
+}

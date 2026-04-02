@@ -1,0 +1,18 @@
+artifact_class: redshift_schematic
+status: public-starter
+config_id: redshift_public_v0_1
+seed_policy: seed-agnostic
+q_t_family: logistic_or_sigmoid_public
+masked_bands:
+  H0_km_s_Mpc:
+  - 50
+  - 90
+  tau_Gyr:
+  - 0.1
+  - 30.0
+  gamma_or_shape:
+  - 0.2
+  - 5.0
+outputs:
+- results/figures/figure_redshift.png
+note: Masked public Tier-1 band disclosure only; exact locks withheld.
